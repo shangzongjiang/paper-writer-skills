@@ -252,4 +252,4 @@ A：直接编辑对应的 `技能名/SKILL.md` 文件即可，无需重新注册
 A：`link_skills.sh` 会把符号链接命名为 `~/.claude/commands/技能目录名.md`，并要求对应 `SKILL.md` frontmatter 中的 `name:` 字段与目录名一致（均为中文），这样命令标识符和调用名称才能保持一致。
 
 ## 参考
-
+- [awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing)
